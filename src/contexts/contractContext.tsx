@@ -21,6 +21,7 @@ interface ContractProps {
 
 const wethAddrs: any = {
   mainnet: '0x85FA00f55492B0437b3925381fAaf0E024747627',
+  candle: '0x85FA00f55492B0437b3925381fAaf0E024747627',
   rinkeby: '0xdf032bc4b9dc2782bb09352007d4c57b75160b15',
   kovan: '0xd0a1e359811322d97991e03f863a0c30c2cf029c',
   xdai: '0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d',

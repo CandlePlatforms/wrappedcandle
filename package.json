@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@chakra-ui/icons": "1.1.7",
+    "@chakra-ui/icons": "2.0.1",
     "@fontsource/mirza": "4.5.9",
     "@fontsource/uncial-antiqua": "4.5.9",
     "@gnosis.pm/safe-apps-sdk": "4.3.0",

@@ -6,7 +6,7 @@
     "@chakra-ui/icons": "2.0.1",
     "@fontsource/mirza": "4.5.9",
     "@fontsource/uncial-antiqua": "4.5.9",
-    "@gnosis.pm/safe-apps-sdk": "4.3.0",
+    "@gnosis.pm/safe-apps-sdk": "7.3.0",
     "@gnosis.pm/safe-apps-web3modal": "12.0.0",
     "@raidguild/design-system": "0.2.17",
     "@testing-library/jest-dom": "5.16.4",
